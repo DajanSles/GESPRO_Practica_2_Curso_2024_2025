@@ -24,10 +24,15 @@ Tasks:
 
 ![image](https://github.com/user-attachments/assets/ecd9d1fa-6de3-419f-b431-93f63551c0bc)
 
-
 - Tareas de 1er Release en progreso en diferentes columnas:
 
 ![image](https://github.com/user-attachments/assets/8e865e5f-d172-4a6c-a9fc-26930c2fea78)
+
+- Cierre de 1er Release
+
+![image](https://github.com/user-attachments/assets/731429cd-b64c-44d1-b1f9-b7292370725d)
+
+
 
 
 
